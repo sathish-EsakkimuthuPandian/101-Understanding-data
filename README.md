@@ -51,7 +51,7 @@ dataset_03
 # Example Datasets
 
 dataset_01 → Credit Card Fraud Detection  
-dataset_02 → (Dataset description)  
+dataset_02 → World Population Dataset 
 dataset_03 → (Dataset description)
 
 ---
